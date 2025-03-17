@@ -10,5 +10,6 @@
 	"syntax": "python",
 	"duration" : 2,
     "projectType": "project",
-	"description" : "Use decision tree algorithm to diagnose diabetes by using patients medical information from previous medical exams"
+	"description" : "Use decision tree algorithm to diagnose diabetes by using patients medical information from previous medical exams",
+	"gitpod": true
 }
